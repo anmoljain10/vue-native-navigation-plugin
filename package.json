@@ -1,0 +1,10 @@
+{
+    "name":"vue-native-navigation-plugin",
+    "version":"0.0.1",
+    "description":"set-up initial configuration react-navigation in vue-native",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmoljain10/vue-native-navigation-plugin.git"
+  },
+  "homepage": "https://github.com/anmoljain10/vue-native-navigation-plugin.git#readme"
+}
